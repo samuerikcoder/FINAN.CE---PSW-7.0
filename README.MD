@@ -46,18 +46,25 @@ Tela de home:
 Tela de gerenciar:
 ![Tela de gerenciar](screenshots/gerenciar.png)
 
+Tela de dashboard:
 ![Tela de dashboard](screenshots/dashboard.png)
 
+Tela de adicionar extrato:
 ![Tela de adicionar valor](screenshots/adicionar_extrato.png)
 
+Tela de ver extrato:
 ![Tela de ver extrato](screenshots/ver_extrato.png)
 
+Tela de adicionar contas:
 ![Tela de adicionar contas](screenshots/ver_contas.png)
 
+Tela de ver contas:
 ![Tela de ver contas](screenshots/adicionar_contas.png)
 
+Tela de adicionar planejamento:
 ![Tela de adionar planejamento](screenshots/adicionar_planejamento.png)
 
+Tela de ver planejamento:
 ![Tela de ver planejamento](screenshots/ver_planejamento.png)
 
 ## Contribuições
